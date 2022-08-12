@@ -4,7 +4,7 @@ in the resources folder in src, and organizes them into two separate tracks that
 follow, with the constraints being that lunch must start at noon, there is no time between 
 when a talk ends and the next talk starts, and networking starts between 4:00 PM and 5:00 PM,
 inclusive. The tracks are then stored in output.text.
-You can run the project by using the main method in SchedulingMain.
+You can run the project by using the main method in SchedulingMain in main/docker/java.
 
 Information on how to compile the project is included below:
 
